@@ -1,0 +1,4 @@
+---
+
+- name: Updating hostname
+  hostname: name={{ hostname_name }}
